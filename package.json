@@ -1,6 +1,6 @@
 {
   "name": "broccoli-funnel",
-  "version": "2.0.2",
+  "version": "2.0.2-ef4.0",
   "description": "Broccoli plugin that allows you to filter files selected from an input node down based on regular expressions.",
   "main": "index.js",
   "author": "Robert Jackson",
@@ -38,7 +38,7 @@
     "path-posix": "^1.0.0",
     "rimraf": "^2.4.3",
     "symlink-or-copy": "^1.0.0",
-    "walk-sync": "^0.3.1"
+    "walk-sync": "^2.2.0"
   },
   "devDependencies": {
     "broccoli-builder": "^0.18.0",
